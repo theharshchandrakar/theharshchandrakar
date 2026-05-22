@@ -2,8 +2,8 @@
   <img src="DE_Github_Banner.png" alt="Welcome to my profile!">
 </p>
 
-<h1 align="center">Hii, I'm Harsh Chandrakar</h1>
-<h3 align="center">Data Engineer🚀 | Building Scalable Data Solutions</h3>
+<h1 align="center">Hi, I'm Harsh Chandrakar 👋</h1>
+<h3 align="center">Data Engineer 🚀 | Building Scalable Data Solutions</h3>
 
 ---
 
@@ -16,7 +16,7 @@ Dedicated to unlocking the true value of data. I design the underlying structure
 - ☁️ Getting hands-on with AWS and exploring cloud-native data solutions.
 - 👯 I'm open to collaborating on open-source data engineering projects!
 - ⚡ Fun fact: I despise Snakes, but I love using Python to wrangle data.
-- 📫 How to reach me: theharshchandrakar@outlook.com
+- 📫 How to reach me: <a href="mailto:theharshchandrakar@outlook.com">theharshchandrakar@outlook.com</a>
 
 ---
 
@@ -66,15 +66,13 @@ Dedicated to unlocking the true value of data. I design the underlying structure
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
 </p>
 
+---
+
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/theharshchandrakar">
-    <img src="https://img.shields.io/github/followers/theharshchandrakar?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-  <br><br>
-  <img src="https://img.shields.io/badge/Profile%20Views-0-blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/repos/theharshchandrakar?label=Public%20Repos&style=flat" alt="Public Repos" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=theharshchandrakar&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3" alt="Harsh's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=theharshchandrakar&layout=compact&theme=transparent&hide_border=true&title_color=2196F3" alt="Top Languages" width="48%" />
 </p>
 
 ---
@@ -82,5 +80,6 @@ Dedicated to unlocking the true value of data. I design the underlying structure
 ### 🤝 Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/harshchandrakar" target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="harshchandrakar" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/harshchandrakar" target="_blank" rel="noreferrer"><img align="center" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" height="40" width="40" /></a>
+  <a href="mailto:theharshchandrakar@outlook.com" target="_blank" rel="noreferrer"><img align="center" src="https://img.icons8.com/color/96/000000/email.png" alt="Email" height="40" width="40" /></a>
 </p>
