@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/800x200/1a1a2e/00d4ff?text=Welcome+to+my+profile!" alt="Welcome to my profile!">
+  <img src="DE_Github_Banner.png" alt="Welcome to my profile!">
 </p>
 
 <h1 align="center">Hii, I'm Harsh Chandrakar</h1>
