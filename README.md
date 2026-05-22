@@ -56,7 +56,7 @@ Dedicated to unlocking the true value of data. I design the underlying structure
   <strong>BI & Visualization Tools:</strong><br>
   <a href="https://www.tableau.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/tableau-software.png" alt="tableau" width="40" height="40"/></a>
   <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/power-bi.png" alt="powerbi" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg/3840px-Microsoft_Office_Excel_%282019%E2%80%932025%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="excel" width="40" height="40"/></a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/></a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
 </p>
