@@ -15,7 +15,7 @@ Dedicated to unlocking the true value of data. I design the underlying structure
 - 🌱 I'm always learning, right now diving deeper into the modern data stack (like dbt & Airflow).
 - ☁️ Getting hands-on with AWS and exploring cloud-native data solutions.
 - 👯 I'm open to collaborating on open-source data engineering projects!
-- ⚡ Fun fact: I despise Snakes, but I love using Python to wrangle data.
+- ⚡ Fun fact: I despise Snakes, but I love Python.
 - 📫 How to reach me: <a href="mailto:theharshchandrakar@outlook.com">theharshchandrakar@outlook.com</a>
 
 ---
