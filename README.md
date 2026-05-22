@@ -89,9 +89,9 @@ Dedicated to unlocking the true value of data. I design the underlying structure
 
 <p align="left">
   <a href="https://linkedin.com/in/harshchandrakar" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />
   </a>
   <a href="mailto:theharshchandrakar@outlook.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email" width="40" height="40" />
   </a>
 </p>
